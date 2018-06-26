@@ -1,4 +1,4 @@
-#------------------------------------------------------------
+d#------------------------------------------------------------
 # Values for this workshop.
 #------------------------------------------------------------
 
@@ -7,10 +7,10 @@
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "swc"
+carpentry: "dc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Test Title"
 
 
 #------------------------------------------------------------
